@@ -1,0 +1,26 @@
+[
+    {
+        "key": "dashboard",
+        "title": "Dashboard",
+        "icon": "CiHome"
+    },
+    {
+        "key": "getting-started",
+        "title": "Getting Started",
+        "icon": "BsAppIndicator",
+        "items": [
+            { "key": "installation", "label": "Installation", "icon": "FiDownload" },
+            { "key": "structure", "label": "Project Structure", "icon": "FiFolder" }
+        ]
+    },
+    {
+        "key": "building",
+        "title": "Building Your App",
+        "icon": "FiTool",
+        "items": [
+            { "key": "routing", "label": "Routing", "icon": "FiMap" },
+            { "key": "rendering", "label": "Rendering", "icon": "FiEdit" },
+            { "key": "styling", "label": "Styling", "icon": "FiDroplet" }
+        ]
+    }
+]
