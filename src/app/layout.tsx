@@ -4,7 +4,7 @@ import ThemeProvider from "@/providers/next-themes";
 import { GoogleAnalytics, GoogleTagManager } from "@next/third-parties/google";
 import { GoogleOAuthProvider } from "@react-oauth/google";
 import CornerStoneProvider from "@/providers/corner-stone";
-import { Toaster } from "@/components/toaster";
+import { Toaster } from "@/components/utils/toaster";
 import HydrateZustand from "@/store";
 import "./globals.css";
 
