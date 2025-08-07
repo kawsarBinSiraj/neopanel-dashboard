@@ -11,7 +11,7 @@ import {
 } from '@/components/ui/dropdown-menu';
 import { GoChevronDown, GoChevronUp } from 'react-icons/go';
 import { BsLayoutSidebar } from 'react-icons/bs';
-import ThemeChanger from '@/components/theme-changer';
+import ThemeChanger from '@/components/utils/theme-changer';
 import usePersistedStore from '@/store/usePersistedStore';
 import { CiSearch } from 'react-icons/ci';
 import { deleteSession } from '@/helper/auth';
